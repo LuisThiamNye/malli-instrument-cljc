@@ -1,0 +1,3 @@
+{:paths ["src"]
+ :deps  {metosin/malli         {:mvn/version "0.5.1"}
+         alter-cljs/alter-cljs {:mvn/version "0.2.0"}}}
